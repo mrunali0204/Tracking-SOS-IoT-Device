@@ -103,7 +103,7 @@ This project aims to provide a reliable emergency tracking solution using wirele
 # Block Diagram
 
 <p align="center">
-<img src="screenshots/block_diagram.png" width="700">
+<img src="screenshots\block_diagram.jpeg" width="700">
 </p>
 
 ---
